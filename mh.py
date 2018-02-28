@@ -11,3 +11,4 @@ def tt(people):
                 del people[x+1]
 tt(people)
 print(people)
+master0
